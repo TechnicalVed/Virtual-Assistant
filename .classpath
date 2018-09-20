@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resource"/>
+	<classpathentry kind="src" path="Jar Folder"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-9">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="Jar Folder/jars/jmf.jar"/>
+	<classpathentry kind="lib" path="Jar Folder/jars/jsoup-1.11.3.jar"/>
+	<classpathentry kind="lib" path="Jar Folder/jars/marytts-builder-5.2-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="Jar Folder/jars/marytts-lang-en-5.2.jar"/>
+	<classpathentry kind="lib" path="Jar Folder/jars/sphinx4-core-1.0.0.jar"/>
+	<classpathentry kind="lib" path="Jar Folder/jars/sphinx4-core-5prealpha-20160628.232526-10-sources.jar"/>
+	<classpathentry kind="lib" path="Jar Folder/jars/sphinx4-core-5prealpha-20160628.232526-10.jar"/>
+	<classpathentry kind="lib" path="Jar Folder/jars/sphinx4-data-5prealpha-20160628.232535-10.jar"/>
+	<classpathentry kind="lib" path="Jar Folder/jars/voice-cmu-rms-hsmm-5.2.jar"/>
+	<classpathentry kind="lib" path="Jar Folder/jars/voice-cmu-slt-hsmm-5.2.jar"/>
+	<classpathentry kind="lib" path="Jar Folder/jars/voice-dfki-poppy-hsmm-5.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
